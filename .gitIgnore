@@ -1,0 +1,8 @@
+.gitIgnore
+.idea
+*.iml
+target
+.DS_Store
+My first Git file.
+GIT
+Regression Suite
